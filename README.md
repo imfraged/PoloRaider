@@ -1,4 +1,4 @@
-<h1 align="center">Giveaway on discord - 2 Winners will receive premium!</h1>
+<h1 align="center">Giveaway on discord - Star To win 1 Month PoloV2 Premium License</h1>
 
 <p align="center">
   <strong>NOTE: Working on V2 - Out soon! - Remember to STAR ⭐</a></strong>
