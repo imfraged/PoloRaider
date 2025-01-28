@@ -1,3 +1,5 @@
+<h1 align="center">Giveaway on discord - 2 Winners will receive premium!</h1>
+
 <p align="center">
   <strong>NOTE: Working on V2 - Out soon! - Remember to STAR ⭐</a></strong>
 </p>
