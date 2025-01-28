@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>NOTE: Don't complain about headers, i know they're ass</a></strong>
+  <strong>NOTE: Working on V2 - Out soon! - Remember to STAR ⭐</a></strong>
 </p>
 <p align="center">
   <img width="460" height="300" src="https://github.com/user-attachments/assets/335641b2-0309-4933-871d-bd8cbd75b234">
